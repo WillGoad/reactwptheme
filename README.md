@@ -1,1 +1,1 @@
-# reactwptheme, testing push to cpanel.
+# reactwptheme, testing autodeploy.
